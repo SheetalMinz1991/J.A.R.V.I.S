@@ -34,3 +34,6 @@ soupsieve==2.2.1
 SpeechRecognition==3.8.1
 urllib3==1.26.7
 wikipedia==1.4.0
+langdetect==1.0.9
+indic-nlp-library==0.92
+scikit-learn==1.5.0
